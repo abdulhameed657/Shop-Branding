@@ -5,7 +5,8 @@
 This repository contains a collection of high-quality banner designs created for professional use in printing and digital advertising. These designs are suitable for panaflex printing, business promotions, and branding purposes.
 
 ![image alt](https://github.com/abdulhameed657/Shop-Branding/blob/main/01%20120x176.jpg?raw=true)
-
+..........
+![image alt](https://github.com/abdulhameed657/Shop-Branding/blob/main/02%20218x120.jpg?raw=true)
 ### ✨ Features
 
 * High-resolution designs (Print Ready)
