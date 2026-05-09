@@ -1,5 +1,3 @@
-# 🎨 Neelgar Panaflex – Banner Design Repository
-
 ## 📌 English Version
 
 ### 📖 About This Repository
